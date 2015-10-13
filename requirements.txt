@@ -1,0 +1,2 @@
+duckduckgo2==0.242
+
